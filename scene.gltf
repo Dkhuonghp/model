@@ -1,0 +1,291 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 45737,
+      "max": [
+        161.1219940185547,
+        87.46510314941406,
+        77.80909729003906
+      ],
+      "min": [
+        -137.4219970703125,
+        -66.44719696044922,
+        -59.38010025024414
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 548844,
+      "componentType": 5126,
+      "count": 45737,
+      "max": [
+        0.9996716976165771,
+        0.9999943375587463,
+        1.0
+      ],
+      "min": [
+        -0.999573290348053,
+        -0.9999712705612183,
+        -0.9999195337295532
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 45737,
+      "max": [
+        0.9998490214347839,
+        0.9999287128448486,
+        0.9999997615814209,
+        1.0
+      ],
+      "min": [
+        -0.9999969005584717,
+        -0.9999629259109497,
+        -0.9999977946281433,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 45737,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 365896,
+      "componentType": 5126,
+      "count": 45737,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 194742,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Ahmet Fazıl ŞENOL (https://sketchfab.com/a.fazil)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/nike-sneakers-ae0e8d6823ed421ea263938e32d62617",
+      "title": "Nike Sneakers"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 778968,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 731792,
+      "byteOffset": 778968,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1097688,
+      "byteOffset": 1510760,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 731792,
+      "byteOffset": 2608448,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3340240,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Default_OBJ_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Default_OBJ_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Default_OBJ",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "nike_low_poly_Default OBJ_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.989768385887146,
+        0.14268332719802856,
+        0.0002058770041913111,
+        0.0,
+        0.08285067230463028,
+        -0.5735442042350767,
+        -0.8149741291999818,
+        0.0,
+        -0.11616513878107071,
+        0.8066526651382447,
+        -0.5794973373413084,
+        0.0,
+        2.1054389476776123,
+        -4.943864822387697,
+        7.792354106903075,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Nike_Son.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.99999999999866,
+        1.6292067073209114e-05,
+        0.0,
+        0.0,
+        -1.6292067073209114e-05,
+        99.99999999999866,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "nike_low_poly"
+    },
+    {
+      "mesh": 0,
+      "name": "nike_low_poly_Default OBJ_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

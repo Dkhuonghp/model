@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nike Sneakers
+* source:	https://sketchfab.com/3d-models/nike-sneakers-ae0e8d6823ed421ea263938e32d62617
+* author:	Ahmet Fazıl ŞENOL (https://sketchfab.com/a.fazil)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nike Sneakers" (https://sketchfab.com/3d-models/nike-sneakers-ae0e8d6823ed421ea263938e32d62617) by Ahmet Fazıl ŞENOL (https://sketchfab.com/a.fazil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
